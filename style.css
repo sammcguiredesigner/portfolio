@@ -45,7 +45,7 @@ html {
 body {
     background: #FFFFFF;
     color: #222222;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
@@ -139,7 +139,7 @@ hr{
 pre,
 code,
 samp {
-    font-family: 'Open Sans', Consolas, monospace;
+    font-family: 'Inconsolata', monospace;
     font-size: inherit;
 }
 
@@ -185,7 +185,7 @@ pre {
 
 /*===== Titles =====*/
 .site-title {
-    font-family: 'Open Sans',helvetica,sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 26px;
     font-weight: 700;
     color: #90D4C5;
@@ -588,7 +588,7 @@ pre {
 }
 .thumbnail-title {
     color: #222222;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 18px;
     font-weight: 700;
     margin: 0 auto 10px auto;
@@ -602,7 +602,7 @@ pre {
 }
 .thumbnail-description {
     color: #222222;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 14px;
     margin: 0 auto;
     max-height: 5em;
@@ -635,7 +635,7 @@ div.image img { width: 100%; }
 }
 /*===== Project Content =====*/
 .project-meta {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 14px;
     color: #BBBBBB;
     margin-top: 28px;
@@ -986,7 +986,7 @@ nav[role="navigation"] {
 /*=================================*/
 .site-footer {
     color: #222222;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
 }
 .site-footer p { margin: 0; font-size: 16px;display: inline;}
 .site-footer a,
