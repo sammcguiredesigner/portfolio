@@ -193,7 +193,7 @@ pre {
     position: relative;
     z-index: 12;
     letter-spacing: 4px;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .site-title a {
 }
@@ -925,14 +925,15 @@ nav[role="navigation"] {
 .site-container {
     margin: 0 auto;
 }
-.site-header{
+.site-header,
+.page-desc {
     padding: 40px 20px;
     width: 100%;
 }
-.page-desc {
-    padding: 0px;
-    width: 100%;
-}
+.site-header .page-desc {
+        padding: 0px;
+    }
+
 .page-desc img {
     margin:40px 0;
 }
@@ -1047,10 +1048,11 @@ nav[role="navigation"] {
 @media only screen and (min-width: 600px) {
 
     /*===== Structures =====*/
-    .site-header {
+    .site-header,
+    .page-desc {
         padding: 60px;
     }
-    .page-desc {
+    .site-header .page-desc {
         padding: 0px;
     }
     .page-desc {
@@ -1125,10 +1127,11 @@ nav[role="navigation"] {
 @media only screen and (min-width: 801px) {
 
     /*===== Structures =====*/
-    .site-header {
+    .site-header,
+    .page-desc {
         padding: 80px;
     }
-    .page-desc {
+    .site-header .page-desc {
         padding: 0px;
     }
     .row {
@@ -1272,8 +1275,11 @@ nav[role="navigation"] {
     .site-header {
         padding: 100px 200px;
     }
-    .page-desc {
+    .site-header .page-desc {
         padding: 0px;
+    }
+    .page-desc {
+        padding: 100px 200px 100px 200px;
     }
     .row {
         margin-top: 120px;
