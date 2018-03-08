@@ -541,7 +541,7 @@ pre {
 }
 .projects-feed .project .overlay {
     background: #ffffff;
-    background: rgba(144, 212, 197, 0.2)
+    background: rgba(255, 255, 255, 0.6);
     height: 100%;
     opacity: 0;
     position: absolute;
