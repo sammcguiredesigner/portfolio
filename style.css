@@ -45,7 +45,7 @@ html {
 body {
     background: #FFFFFF;
     color: #222222;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
@@ -135,7 +135,7 @@ hr{
 pre,
 code,
 samp {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: inherit;
 }
 
@@ -181,7 +181,7 @@ pre {
 
 /*===== Titles =====*/
 .site-title {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 26px;
     font-weight: 700;
     color: #90D4C5;
@@ -584,7 +584,7 @@ pre {
 }
 .thumbnail-title {
     color: #222222;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 18px;
     font-weight: 700;
     margin: 0 auto 10px auto;
@@ -598,7 +598,7 @@ pre {
 }
 .thumbnail-description {
     color: #222222;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 14px;
     margin: 0 auto;
     max-height: 5em;
@@ -631,7 +631,7 @@ div.image img { width: 100%; }
 }
 /*===== Project Content =====*/
 .project-meta {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 14px;
     color: #BBBBBB;
     margin-top: 28px;
@@ -985,7 +985,7 @@ nav[role="navigation"] {
 /*=================================*/
 .site-footer {
     color: #222222;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Anonymous Pro', monospace;
 }
 .site-footer p { margin: 0; font-size: 16px;display: inline;}
 .site-footer a,
@@ -1141,7 +1141,7 @@ nav[role="navigation"] {
         margin-bottom: 80px;
     }
     .site-tagline p { 
-        font-size: 42px;
+        font-size: 36px;
     }
     /*===== Navigations =====*/
     .cd-nav-trigger {
@@ -1289,7 +1289,7 @@ nav[role="navigation"] {
         width: 75%;
     }
     .site-tagline p { 
-        font-size: 48px;
+        font-size: 36px;
     }
     .site-tagline h1 { 
         font-size: 3.2rem;
